@@ -1,0 +1,7 @@
+name: JqcksonLlama
+version: 1.0
+main: com.xcodiq.jqcksonllama.LlamaPlugin
+description: Llamas will attack you once you attack it's brothers
+author: Cody Lynn (xCodiq)
+website: https://www.xcodiq.com/
+api-version: 1.18
